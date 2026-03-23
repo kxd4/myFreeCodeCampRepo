@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Travel Page" >
+        <meta name="author" content="Chunky">
+    <title>Welcome to Australia</title>
+    </head>
+    <body>
+        <h1 style="text-align: center;">Welcome to Australia</h1>
+        <p>Austrlia is an amazing place that is culturally diverse and topographically diverse</p>
+        <h2>Packages</h2>
+        <p> We have three packages available</p>
+        <ul>
+            <li><a href="https://www.freecodecamp.org/learn" target="_blank"> Group Travels</a></li>
+            <li><a href="https://www.freecodecamp.org/learn" target="_blank"> Private Tours</a></li>
+        </ul>
+    <h2>Top Itineraries</h2>
+   
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="northqld.jpg" alt="Fitzroy Island" width="850" height="399"></a>
+        <figcaption>Fitzroy Island</figcaption>
+
+    </figure>
+    
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="rock.jpg" alt="Uluru" width="850" height="399"></a>
+        <figcaption>Uluru</figcaption>
+    </figure>
+    
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="sydney.jpg" alt="Sydney Harbour" width="850" height="399"></a>
+        <figcaption>Sydney Harbour</figcaption>
+
+    </figure>
+    </body>
+</html>
